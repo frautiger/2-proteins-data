@@ -1,0 +1,19 @@
+receptor = /Users/ltulloch/Documents/Structures/Autodock-vina/proteins/F1-subunit-PDBQTs/TbAe.pdbqt
+ligand = /Users/ltulloch/Documents/Structures/Autodock-vina/ligands/JM425.pdbqt
+
+center_x = 35.694
+center_y = 29.102
+center_z = 21.194
+
+size_x = 17
+size_y = 15
+size_z = 23
+
+exhaustiveness = 24
+
+out = TbAe-JM425.pdbqt
+out = TbAe-JM425.pdb
+log = TbAe-JM425.txt
+num_modes = 10
+energy_range = 4
+

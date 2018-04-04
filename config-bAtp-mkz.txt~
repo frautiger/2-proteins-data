@@ -1,0 +1,15 @@
+receptor = bAe.pdbqt
+
+center_x = 35.694
+center_y = 29.102
+center_z = 21.194
+
+size_x = 17
+size_y = 15
+size_z = 23
+
+exhaustiveness = 24
+
+num_modes = 10
+energy_range = 4
+
